@@ -1,0 +1,16 @@
+2020/5/22
+2
+Shoyu
+Medium
+Little
+false
+false
+true
+3
+0
+7
+0
+0
+true
+16.9
+false

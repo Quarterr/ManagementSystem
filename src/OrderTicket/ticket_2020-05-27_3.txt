@@ -1,0 +1,16 @@
+2020/5/27
+3
+Shoyu
+Medium
+Lot
+false
+true
+false
+2
+0
+2
+0
+0
+true
+11.9
+false

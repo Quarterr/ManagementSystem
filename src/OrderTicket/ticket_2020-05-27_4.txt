@@ -1,0 +1,16 @@
+2020/5/27
+4
+Tonkotsu
+Firm
+Little
+true
+false
+false
+1
+0
+1
+1
+0
+true
+11.9
+false

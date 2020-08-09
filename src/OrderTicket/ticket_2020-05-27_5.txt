@@ -1,0 +1,16 @@
+2020/5/27
+5
+Shoyu
+Medium
+Little
+true
+false
+true
+1
+0
+0
+1
+0
+false
+10.9
+false

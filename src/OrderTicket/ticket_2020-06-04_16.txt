@@ -1,0 +1,16 @@
+2020/6/4
+16
+Shoyu
+Firm
+Little
+true
+false
+true
+4
+0
+0
+0
+0
+true
+9.9
+false

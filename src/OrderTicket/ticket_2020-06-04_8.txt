@@ -1,0 +1,16 @@
+2020/6/4
+8
+Shoyu
+Soft
+Little
+true
+false
+true
+1
+0
+0
+0
+0
+true
+9.9
+false
